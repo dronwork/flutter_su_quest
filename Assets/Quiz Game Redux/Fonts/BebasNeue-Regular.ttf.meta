@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 1c000c8762ef4cb4b994af8a4a875c4c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bebas Neue
+  fontNames:
+  - Bebas Neue
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aa4efda22ed806e46a06d3f176771f07, type: 3}
+  - {fileID: 12800000, guid: 327e7d0c7c930b24e83defc16dfbc868, type: 3}
+  - {fileID: 12800000, guid: 2d28272d1e0cf2c42b1ab2491b9e0afe, type: 3}
+  - {fileID: 12800000, guid: b464d0be6da18d44d8ffeba526a424b0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
